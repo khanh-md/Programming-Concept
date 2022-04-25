@@ -1,2 +1,2 @@
 # School-works
-# This file is for projects done for college classes
+# This file is for projects done for Programming Concept
